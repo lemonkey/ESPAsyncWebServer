@@ -10,9 +10,9 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/me-no-dev/ESPAsyncWebServer.git"
+    "url": "https://github.com/lemonkey/ESPAsyncWebServer.git"
   },
-  "version": "1.2.3",
+  "version": "1.2.4",
   "license": "LGPL-3.0",
   "frameworks": "arduino",
   "platforms": ["espressif8266", "espressif32"],
